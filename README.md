@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @madmaddy
 - 👀 I’m interested in programming/space
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning alot
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me -"you can't"
 
